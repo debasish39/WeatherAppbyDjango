@@ -30,3 +30,5 @@ This is a Django-based weather web application that allows users to input a city
 ### 1️⃣ Clone the Repository
 
 ```bash
+git clone https://github.com/debasish39/WeatherAppbyDjango.git
+cd weather-app
